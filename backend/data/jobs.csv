@@ -1,0 +1,4 @@
+﻿id,company,title,required_skills,preferred_skills,description,job_type
+1,넥스트데이터랩,데이터 분석가,Python;SQL;Pandas;통계분석;데이터 시각화,Tableau;Git;머신러닝 기초;커뮤니케이션,서비스 이용 데이터와 고객 행동 데이터를 분석하여 KPI를 관리합니다.,데이터 분석
+2,스마트커머스솔루션,비즈니스 데이터 애널리스트,SQL; Excel; Python; 데이터 모델링; 리포트 작성,Power BI; A/B Test; BigQuery; 프레젠테이션,"이커머스 데이터를 분석하여 매출과 사용자 행동을 모니터링하고, 대시보드 제작 및 경영진 보고 자료를 작성합니다. 다양한 부서와 협업이 필요한 직무입니다.",데이터 분석
+3,에이아이인사이트코리아,주니어 데이터 분석가,Python; SQL; NumPy; Pandas; 통계학,TensorFlow; Scikit-learn; Docker; Linux,데이터 전처리와 분석 업무를 수행하며 AI 서비스 개선을 위한 데이터 인사이트를 제공합니다. 머신러닝 프로젝트 참여 경험이 있으면 우대합니다.,데이터 분석

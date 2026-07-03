@@ -25,3 +25,5 @@ app.include_router(analyze.router)
 @app.get("/")
 def root():
     return {"message": "CareerFit AI 서버가 실행 중입니다."}
+
+print("main.py:", __file__)
