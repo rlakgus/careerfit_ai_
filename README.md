@@ -108,6 +108,13 @@ LLM(Gemini) + RAG 구조를 활용하여
 - RAG 검색 결과 생성 기능 구현
 - 검색 결과 + LLM 응답 연결 파이프라인 구현
 - 의미 기반 직무 추천 시스템 완성
+- React 기반 프론트엔드 UI 구성 시작
+- InputForm / ResultCard / SourceCard 컴포넌트 설계
+- FastAPI /analyze API와 프론트엔드 fetch 연동
+- 사용자 입력(전공 / 스킬 / 직무) → 백엔드 요청 구조 구현
+- RAG 결과를 기반으로 화면에 분석 결과 출력 구조 설계
+- 컴포넌트 import/export 오류 및 렌더링 문제 디버깅
+- Vite 개발 환경에서 발생하는 모듈/캐시 문제 해결 과정 진행
 
 ---
 
@@ -117,5 +124,10 @@ LLM(Gemini) + RAG 구조를 활용하여
 # 가상환경 활성화
 .\backend\.venv\Scripts\Activate.ps1
 
+Frontend: http://localhost:5173
+Backend:  http://localhost:8000
+
 # 서버 실행
 uvicorn main:app --reload
+
+
