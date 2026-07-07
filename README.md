@@ -116,6 +116,20 @@ LLM(Gemini) + RAG 구조를 활용하여
 - 컴포넌트 import/export 오류 및 렌더링 문제 디버깅
 - Vite 개발 환경에서 발생하는 모듈/캐시 문제 해결 과정 진행
 
+
+### 📌 Day 5
+
+* React 프론트엔드와 FastAPI 백엔드 연동
+* 입력 폼(InputForm) 및 결과 카드(ResultCard, SourceCard) 구현
+* 브라우저 기반 통합 테스트 진행
+* Docker 환경 구축 및 Dockerfile 작성
+* 프로젝트 의존성(requirements.txt) 정리 및 버전 충돌 해결
+* Docker 이미지 빌드 성공 및 컨테이너 실행
+* FastAPI를 Docker 컨테이너에서 실행하고 Swagger(`/docs`) 정상 동작 확인
+* 프론트엔드 ↔ 백엔드 API 연동 테스트 완료
+* React 컴포넌트 import/export 오류 및 렌더링 문제 해결
+* Docker 실행 오류, 환경 설정 및 컨테이너 실행 문제 디버깅
+
 ---
 
 ## 🧪 실행 방법
